@@ -1,0 +1,1 @@
+hometown[strcspn(hometown, "\n")] = '\0';
